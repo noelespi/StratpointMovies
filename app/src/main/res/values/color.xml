@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="detail_backdrop_alpha">#48000000</drawable>
+    <drawable name="list_item_selected">#48000000</drawable>
+    <drawable name="list_item_pressed">#AA000000</drawable>
+</resources>
